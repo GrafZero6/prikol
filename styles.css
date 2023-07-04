@@ -11,6 +11,7 @@
     opacity: 0.7;
     margin: 0 auto;
     border: 15px inset lightblue;
+    border-radius: 40px;
     
 }
 .header {
